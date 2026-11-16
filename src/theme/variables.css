@@ -1,0 +1,15 @@
+:root {
+  --app-bg: #0b0e14;
+  --app-card: #121722;
+  --app-border: #1d2433;
+  --app-text: #e8ecf4;
+  --app-muted: #7d8799;
+  --app-up: #00c853;
+  --app-down: #ff5252;
+
+  --ion-background-color: var(--app-bg);
+  --ion-text-color: var(--app-text);
+  --ion-toolbar-background: var(--app-bg);
+  --ion-item-background: transparent;
+  --ion-font-family: 'Inter', -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
